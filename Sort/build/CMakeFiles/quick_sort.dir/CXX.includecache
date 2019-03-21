@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/common.h
+iostream
+-
+vector
+-
+
+/home/kali/kaka/c_or_cpp/quicksort/src/common.cpp
+common.h
+/home/kali/kaka/c_or_cpp/quicksort/src/common.h
+
+/home/kali/kaka/c_or_cpp/quicksort/src/main.cpp
+common.h
+/home/kali/kaka/c_or_cpp/quicksort/src/common.h
+
