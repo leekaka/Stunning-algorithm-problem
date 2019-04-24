@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kali/kaka/c_or_cpp/quicksort
+CMAKE_SOURCE_DIR = /home/kali/kaka/MyGithub/stunning-problem/Sort
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kali/kaka/c_or_cpp/quicksort/build
+CMAKE_BINARY_DIR = /home/kali/kaka/MyGithub/stunning-problem/Sort/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/quick_sort.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/quick_sort.dir/flags.make
 
 CMakeFiles/quick_sort.dir/src/common.cpp.o: CMakeFiles/quick_sort.dir/flags.make
 CMakeFiles/quick_sort.dir/src/common.cpp.o: ../src/common.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kali/kaka/c_or_cpp/quicksort/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/quick_sort.dir/src/common.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/quick_sort.dir/src/common.cpp.o -c /home/kali/kaka/c_or_cpp/quicksort/src/common.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/quick_sort.dir/src/common.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/quick_sort.dir/src/common.cpp.o -c /home/kali/kaka/MyGithub/stunning-problem/Sort/src/common.cpp
 
 CMakeFiles/quick_sort.dir/src/common.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quick_sort.dir/src/common.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kali/kaka/c_or_cpp/quicksort/src/common.cpp > CMakeFiles/quick_sort.dir/src/common.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kali/kaka/MyGithub/stunning-problem/Sort/src/common.cpp > CMakeFiles/quick_sort.dir/src/common.cpp.i
 
 CMakeFiles/quick_sort.dir/src/common.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quick_sort.dir/src/common.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kali/kaka/c_or_cpp/quicksort/src/common.cpp -o CMakeFiles/quick_sort.dir/src/common.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kali/kaka/MyGithub/stunning-problem/Sort/src/common.cpp -o CMakeFiles/quick_sort.dir/src/common.cpp.s
 
 CMakeFiles/quick_sort.dir/src/common.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/quick_sort.dir/src/common.cpp.o.provides.build: CMakeFiles/quick_sort
 
 CMakeFiles/quick_sort.dir/src/main.cpp.o: CMakeFiles/quick_sort.dir/flags.make
 CMakeFiles/quick_sort.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kali/kaka/c_or_cpp/quicksort/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/quick_sort.dir/src/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/quick_sort.dir/src/main.cpp.o -c /home/kali/kaka/c_or_cpp/quicksort/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/quick_sort.dir/src/main.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/quick_sort.dir/src/main.cpp.o -c /home/kali/kaka/MyGithub/stunning-problem/Sort/src/main.cpp
 
 CMakeFiles/quick_sort.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/quick_sort.dir/src/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kali/kaka/c_or_cpp/quicksort/src/main.cpp > CMakeFiles/quick_sort.dir/src/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kali/kaka/MyGithub/stunning-problem/Sort/src/main.cpp > CMakeFiles/quick_sort.dir/src/main.cpp.i
 
 CMakeFiles/quick_sort.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/quick_sort.dir/src/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kali/kaka/c_or_cpp/quicksort/src/main.cpp -o CMakeFiles/quick_sort.dir/src/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kali/kaka/MyGithub/stunning-problem/Sort/src/main.cpp -o CMakeFiles/quick_sort.dir/src/main.cpp.s
 
 CMakeFiles/quick_sort.dir/src/main.cpp.o.requires:
 
@@ -117,7 +117,7 @@ quick_sort: CMakeFiles/quick_sort.dir/src/common.cpp.o
 quick_sort: CMakeFiles/quick_sort.dir/src/main.cpp.o
 quick_sort: CMakeFiles/quick_sort.dir/build.make
 quick_sort: CMakeFiles/quick_sort.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kali/kaka/c_or_cpp/quicksort/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable quick_sort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable quick_sort"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/quick_sort.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/quick_sort.dir/clean:
 .PHONY : CMakeFiles/quick_sort.dir/clean
 
 CMakeFiles/quick_sort.dir/depend:
-	cd /home/kali/kaka/c_or_cpp/quicksort/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kali/kaka/c_or_cpp/quicksort /home/kali/kaka/c_or_cpp/quicksort /home/kali/kaka/c_or_cpp/quicksort/build /home/kali/kaka/c_or_cpp/quicksort/build /home/kali/kaka/c_or_cpp/quicksort/build/CMakeFiles/quick_sort.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kali/kaka/MyGithub/stunning-problem/Sort/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kali/kaka/MyGithub/stunning-problem/Sort /home/kali/kaka/MyGithub/stunning-problem/Sort /home/kali/kaka/MyGithub/stunning-problem/Sort/build /home/kali/kaka/MyGithub/stunning-problem/Sort/build /home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles/quick_sort.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/quick_sort.dir/depend
 

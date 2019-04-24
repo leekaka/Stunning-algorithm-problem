@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kali/kaka/c_or_cpp/quicksort/src/common.cpp" "/home/kali/kaka/c_or_cpp/quicksort/build/CMakeFiles/quick_sort.dir/src/common.cpp.o"
-  "/home/kali/kaka/c_or_cpp/quicksort/src/main.cpp" "/home/kali/kaka/c_or_cpp/quicksort/build/CMakeFiles/quick_sort.dir/src/main.cpp.o"
+  "/home/kali/kaka/MyGithub/stunning-problem/Sort/src/common.cpp" "/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles/quick_sort.dir/src/common.cpp.o"
+  "/home/kali/kaka/MyGithub/stunning-problem/Sort/src/main.cpp" "/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles/quick_sort.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

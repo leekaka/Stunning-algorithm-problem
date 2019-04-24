@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/kali/kaka/c_or_cpp/quicksort/include 
+CXX_INCLUDES = -I/home/kali/kaka/MyGithub/stunning-problem/Sort/include 
 
