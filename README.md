@@ -7,7 +7,7 @@
 | 序号 | 题目&题解                                                    |
 | ---- | ------------------------------------------------------------ |
 | 1    | [两数之和](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第1题：两数之和.md) |
-| 2    |    []()                                                          |
+| 2    |    [两数相加](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第2题：两数相加.md)  |
 | 3    |--|
 | 4    |----|
 | 5    |--|

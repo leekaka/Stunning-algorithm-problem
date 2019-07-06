@@ -1,6 +1,6 @@
 # LeetCode 第 2 题：两数相加
 
-> 个人网站：[https://lgg2018.com]
+> [个人网站](https://lgg2018.com)
 
 题目来源于 LeetCode 上第 2 题：两数相加。题目难度为 Medium，目前通过率为 33.9% 。
 
