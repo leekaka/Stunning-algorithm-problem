@@ -13,9 +13,9 @@
 | 序号 | 题目&题解                                                    |
 | ---- | ------------------------------------------------------------ |
 | 1    | [两数之和](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第1题：两数之和.md) |
-| 2    |    [两数相加](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第2题：两数相加.md)  |
-| 3    |--|
-| 4    |----|
-| 5    |--|
-| 6  |
+| 2    | [两数相加](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第2题：两数相加.md) |
+| 3    | [无重复字符的最长子串](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第3题：无重复字符的最长子串.md) |
+| 4    | ----                                                         |
+| 5    | --                                                           |
+| 6    |                                                              |
 
