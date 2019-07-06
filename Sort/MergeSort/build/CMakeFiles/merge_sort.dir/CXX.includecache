@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/common.h
+iostream
+-
+vector
+-
+
+/home/kali/kaka/MyGithub/stunning-problem/Sort/MergeSort/src/common.cpp
+common.h
+/home/kali/kaka/MyGithub/stunning-problem/Sort/MergeSort/src/common.h
+
+/home/kali/kaka/MyGithub/stunning-problem/Sort/MergeSort/src/main.cpp
+common.h
+/home/kali/kaka/MyGithub/stunning-problem/Sort/MergeSort/src/common.h
+

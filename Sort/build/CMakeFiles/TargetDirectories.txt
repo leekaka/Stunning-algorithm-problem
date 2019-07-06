@@ -1,3 +1,0 @@
-/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles/edit_cache.dir
-/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles/rebuild_cache.dir
-/home/kali/kaka/MyGithub/stunning-problem/Sort/build/CMakeFiles/quick_sort.dir
