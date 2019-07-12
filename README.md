@@ -1,5 +1,11 @@
 # 经典算法题一览
 
+欢迎关注个人公号：
+
+![个](https://github.com/leekaka/github_pics/blob/master/wechat_public/qrcode_for_gh_2e9a528eb7b6_258.jpg?raw=true)
+
+
+
 ## 排序算法Sort
 
 #### 冒泡排序

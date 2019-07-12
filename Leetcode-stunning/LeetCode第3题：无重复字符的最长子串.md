@@ -1,6 +1,10 @@
 # LeetCode 第 3 题：无重复字符的最长子串
 
-[个人网站](http://lgg2018.com)
+[欢迎关注个人公号：
+
+![个](https://github.com/leekaka/github_pics/blob/master/wechat_public/qrcode_for_gh_2e9a528eb7b6_258.jpg?raw=true)
+
+个人网站](http://lgg2018.com)
 
 题目来源于 LeetCode 上第 3 题：无重复字符的最长子串。题目难度为 Medium，目前通过率为 29.0% 。
 
