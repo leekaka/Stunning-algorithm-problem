@@ -1,4 +1,4 @@
-# LeetCode 第 7题：翻转整数
+# LeetCode 第 8题：翻转整数
 
 [个人网站](http://lgg2018.com)
 
