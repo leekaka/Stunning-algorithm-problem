@@ -1,9 +1,5 @@
 # LeetCode 第 1 题：两数之和
 
-欢迎关注个人公号：
-
-![个](https://github.com/leekaka/github_pics/blob/master/wechat_public/qrcode_for_gh_2e9a528eb7b6_258.jpg?raw=true)
-
 题目来源于 LeetCode 上第 1 题：两数之和。题目难度为 Easy，目前通过率为 45.8% 。
 
 ### 题目描述

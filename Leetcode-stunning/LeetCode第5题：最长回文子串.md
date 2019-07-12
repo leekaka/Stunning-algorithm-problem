@@ -1,10 +1,6 @@
 # LeetCode 第 5题：最长回文子串
 
-[欢迎关注个人公号：
-
-![个](https://github.com/leekaka/github_pics/blob/master/wechat_public/qrcode_for_gh_2e9a528eb7b6_258.jpg?raw=true)
-
-个人网站](http://lgg2018.com)
+[个人网站](http://lgg2018.com)
 
 题目来源于 LeetCode 上第 5题：最长回文子串。题目难度为 Medium，目前通过率为 26.62% 。
 

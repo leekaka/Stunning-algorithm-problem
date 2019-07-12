@@ -1,11 +1,4 @@
 # LeetCode 第 8题：翻转整数
-<<<<<<< HEAD
-
-欢迎关注个人公号：
-
-![个](https://github.com/leekaka/github_pics/blob/master/wechat_public/qrcode_for_gh_2e9a528eb7b6_258.jpg?raw=true)
-=======
->>>>>>> 7492ee69e71aee6141ed13b3009b552c34d453c0
 
 [个人网站](http://lgg2018.com)
 
