@@ -2,7 +2,7 @@
 
 [个人网站](http://lgg2018.com)
 
-题目来源于 LeetCode 上第 16题：三数和（closet）。题目难度为 Medium，目前通过率为 45.79% 
+题目来源于 LeetCode 上第 16题：三数和（closest）。题目难度为 Medium，目前通过率为 45.79% 
 
 ### 题目描述
 
