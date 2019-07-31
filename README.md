@@ -34,4 +34,6 @@
 | 16   | [三数和(closest)](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第16题：三数和(closest).md) |
 | 17   | [手机按键的单词组成](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第17题：手机按键的单词组成.md) |
 | 18   | [4sum](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第18题：4sum.md) |
+| 22   | [generate-parentheses](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第22题：generate-parentheses.md) |
+|      |                                                              |
 
