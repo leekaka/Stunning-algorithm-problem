@@ -36,6 +36,6 @@
 | 18   | [4sum](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第18题：4sum.md) |
 | 21   | [合并两个队列](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第21题：合并两个队列.md) |
 | 22   | [generate-parentheses](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第22题：generate-parentheses.md) |
-|  79    |      [WordSearch](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第79题：WordSearch.md)                                                        |
+|  79    |      [WordSearch](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第79题：ＷordSearch.md)                                 |
 | | |
 
