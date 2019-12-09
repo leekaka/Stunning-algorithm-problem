@@ -9,8 +9,7 @@
 using namespace std;
 
 
-class Sort
-{
+class Sort {
 
     public:
     

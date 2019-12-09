@@ -9,7 +9,7 @@
 ## 排序算法Sort
 
 #### [冒泡排序](https://github.com/leekaka/stunning-algorithm-problem/tree/master/Sort/BubbleSort)
-#### 插入排序
+#### [插入排序](https://github.com/leekaka/stunning-algorithm-problem/tree/master/Sort/InsertSort)
 #### 归并排序
 #### 快速排序
 
