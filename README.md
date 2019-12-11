@@ -36,6 +36,7 @@
 | 21   | [合并两个队列](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第21题：合并两个队列.md) |
 | 22   | [generate-parentheses](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第22题：generate-parentheses.md) |
 | 79   | [WordSearch](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第79题:ＷordSearch.md) |
+|80  |[从排好序的数组中移除重复的](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第80题:RemoveDuplicatesfromSortedArrayII.md)|
 | 102  |[二叉树的层级遍历](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第102题:BinaryTreeLevelOrderTraversal.md)  |
 |104    |[二叉树的最大深度](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第104题:MaximumDepthofBinaryTree.md) |
 |||
