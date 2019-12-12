@@ -11,7 +11,6 @@ int main()
     Sort q;
     q.QuickSort(a,0,a.size()-1); 
     q.PrintData(a);
-    cout<<"hello lika"<<endl;
     return 0;
 
 }
