@@ -39,5 +39,6 @@
 |80  |[从排好序的数组中移除重复的](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第80题:RemoveDuplicatesfromSortedArrayII.md)|
 | 102  |[二叉树的层级遍历](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第102题:BinaryTreeLevelOrderTraversal.md)  |
 |104    |[二叉树的最大深度](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第104题:MaximumDepthofBinaryTree.md) |
+|129 |[二叉树的子叶和](https://github.com/leekaka/stunning-algorithm-problem/blob/master/Leetcode-stunning/LeetCode第129题:SumRoottoLeafNumbers.md)|
 |||
 
